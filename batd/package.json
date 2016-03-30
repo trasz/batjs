@@ -1,0 +1,17 @@
+{
+  "name": "batd",
+  "version": "1.0.0",
+  "description": "Binary Artifact Transparency server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edward Tomasz Napierala <trasz@FreeBSD.org>",
+  "license": "BSD",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "pg": "^4.4.1",
+    "pg-native": "^1.8.1"
+  }
+}

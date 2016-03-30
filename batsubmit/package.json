@@ -1,0 +1,14 @@
+{
+  "name": "batsubmit",
+  "version": "1.0.0",
+  "description": "Binary Artifact Transparency hash submission utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edward Tomasz Napierala <trasz@FreeBSD.org>",
+  "license": "BSD",
+  "dependencies": {
+    "request": "^2.61.0"
+  }
+}
